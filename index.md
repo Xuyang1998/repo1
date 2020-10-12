@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 # Maochun's Family secret recipes
+=======
+# Faaamily secret recipes
+>>>>>>> parent of 79dd2bc... introduce some sill types
 
 Set of recipes as given my grandma
 
-- pizas (TODO)
-- sauses (TODO)
-- reads (TODO)
+- pizzas (TODO)
+- sauces (TODO)
+- spreads (TODO)
 
 
