@@ -1,0 +1,53 @@
+[33mcommit 8db568de39690fe20f7af099078d0b91c3255dd1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Maochun <ucapmxu@ucl.ac.uk>
+Date:   Mon Oct 12 09:52:39 2020 +0800
+
+    Setting up the title for the book
+
+[33mcommit 9c3713be38137c758e92870ea5552c58a2825fa7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Sat Oct 3 16:10:14 2020 +0800
+
+    add text.txt
+
+[33mcommit 62840baa26c30198a4b5c4f89b7689f466e05569[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Sat Oct 3 15:21:53 2020 +0800
+
+    remove test.txt
+
+[33mcommit 2637ddaa9f32edaad0114fa4f37cf6d06bf6beaf[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Sat Oct 3 15:14:40 2020 +0800
+
+    add test.txt
+
+[33mcommit e193f44b4a4fc00cbebd81e30a8d6ffedd78682e[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Sat Oct 3 14:53:20 2020 +0800
+
+    git trancks changes
+
+[33mcommit 32f2d6db5b98af2e859a49b0f2474943a2cd4271[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Sat Oct 3 14:47:06 2020 +0800
+
+    understand how stage works
+
+[33mcommit a4e58c643b366bb1c2e6fc506f7c5b545b8d9de8[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Fri Oct 2 14:54:00 2020 +0800
+
+    add distributed
+
+[33mcommit a9b475bce549317620f8533c6756503d2a82bf2e[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Fri Oct 2 14:50:01 2020 +0800
+
+    wrote a readme file
+
+[33mcommit 3f8f3e03a854a5488824dc9ae04e5c6beb89c54b[m
+Author: Maochun Xu <ucapmxu@ucl.ac.uk>
+Date:   Fri Oct 2 11:29:21 2020 +0800
+
+    add two files
